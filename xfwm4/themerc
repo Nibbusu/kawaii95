@@ -51,7 +51,6 @@ title_alignment=left
 title_horizontal_offset=2
 title_vertical_offset_active=1
 title_vertical_offset_inactive=1
-frame_border_top=4
 frame_border_top=8
 frame_border_bottom=8
 frame_border_left=8
